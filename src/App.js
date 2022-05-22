@@ -3,8 +3,7 @@ import Typer from './components/Typer';
 
 function App() {
   return (
-    <div>
-      <h3>Typing test</h3>
+    <div className="wrapper">
       <Typer/>
     </div>
   );
