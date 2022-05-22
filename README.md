@@ -6,7 +6,7 @@ This project provides a live typing test that helpers a user boost their typing 
 ## Run project
 clone the project by this command
 ```bash
-git clone 
+git clone https://github.com/Kondwani7/typing_test.git 
 ```
 then open up your preferred code editor
 - if on VScode, click the live server button to experiment with the web app

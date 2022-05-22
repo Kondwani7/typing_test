@@ -22,10 +22,18 @@ const Typer = () => {
                 </li>
                 <li className='mistake'>
                     <p>Mistakes:</p>
-                    <span><b>60</b>s</span>
+                    <span><b>60</b></span>
+                </li>
+                <li className='wpm'>
+                    <p>WPM:</p>
+                    <span><b>60</b></span>
+                </li>
+                <li className='cpm'>
+                    <p>CPM:</p>
+                    <span><b>0</b></span>
                 </li>
             </ul>
-            <button>Try Again</button>
+            <button className="button">Try Again</button>
         </div>
     </div>
   )
